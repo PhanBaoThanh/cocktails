@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/cocktails/static/css/main.458bf8c4.css",
+    "main.js": "/cocktails/static/js/main.31920212.js",
+    "static/media/8.jpg": "/cocktails/static/media/8.e84b64ff2fc49e9bcff3.jpg",
+    "static/media/23.jpg": "/cocktails/static/media/23.c31d555c82cfbbb1fa44.jpg",
+    "static/media/6.jpg": "/cocktails/static/media/6.707439486e06901e00e6.jpg",
+    "static/media/22.jpg": "/cocktails/static/media/22.324d946158a77930b422.jpg",
+    "static/media/20.jpg": "/cocktails/static/media/20.c53537c2f79f1676398c.jpg",
+    "static/media/2.jpg": "/cocktails/static/media/2.587df274856ce38e2a5b.jpg",
+    "static/media/5.jpg": "/cocktails/static/media/5.39acd4ebb612a818ff7e.jpg",
+    "static/media/12.jpg": "/cocktails/static/media/12.0fc15be330c638430f5d.jpg",
+    "static/media/18.jpg": "/cocktails/static/media/18.4fd0240515eeb8dd040e.jpg",
+    "static/media/3.jpg": "/cocktails/static/media/3.c10399e61c9e7f284325.jpg",
+    "static/media/19.jpg": "/cocktails/static/media/19.309b8411518ce8c04538.jpg",
+    "static/media/9.jpg": "/cocktails/static/media/9.8ee6995fd419eddf7ae9.jpg",
+    "static/media/7.jpg": "/cocktails/static/media/7.4d4853e6a6746e4d44aa.jpg",
+    "static/media/16.jpg": "/cocktails/static/media/16.07ab43088b79e8282154.jpg",
+    "static/media/4.jpg": "/cocktails/static/media/4.da684a72d804c13db4b6.jpg",
+    "static/media/10.jpg": "/cocktails/static/media/10.ffcece2abb91fd3e6294.jpg",
+    "static/media/14.jpg": "/cocktails/static/media/14.508087caadb030f437bd.jpg",
+    "static/media/11.jpg": "/cocktails/static/media/11.5b57d9b4395a069bb7ab.jpg",
+    "static/media/21.jpg": "/cocktails/static/media/21.f261b02aa72dd0916653.jpg",
+    "static/media/13.jpg": "/cocktails/static/media/13.b229d084d414371b8c23.jpg",
+    "static/media/1.jpg": "/cocktails/static/media/1.d1975d906567f4a1288d.jpg",
+    "static/media/15.jpg": "/cocktails/static/media/15.530bde38160fad84284a.jpg",
+    "static/media/24.jpg": "/cocktails/static/media/24.57d45321685b57701367.jpg",
+    "static/media/17.jpg": "/cocktails/static/media/17.86f171d834db5b10099f.jpg",
+    "index.html": "/cocktails/index.html",
+    "main.458bf8c4.css.map": "/cocktails/static/css/main.458bf8c4.css.map",
+    "main.31920212.js.map": "/cocktails/static/js/main.31920212.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.458bf8c4.css",
+    "static/js/main.31920212.js"
+  ]
+}
