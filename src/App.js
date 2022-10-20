@@ -202,6 +202,7 @@ function App() {
       <Router>
         <Routes>
           <Route path='/' element={<Home data={data}/>} />
+          <Route path='/cocktails' element={<Home data={data}/>} />
           <Route path='/:productId' element={<Product data={data} />} />
         </Routes>
       </Router>
